@@ -1,0 +1,12 @@
+E:\College\Pattern Recognition\Projects\PR Task 5\PR Task 5\bin\Debug\PR Task 5.exe.config
+E:\College\Pattern Recognition\Projects\PR Task 5\PR Task 5\bin\Debug\PR Task 5.exe
+E:\College\Pattern Recognition\Projects\PR Task 5\PR Task 5\bin\Debug\PR Task 5.pdb
+E:\College\Pattern Recognition\Projects\PR Task 5\PR Task 5\obj\Debug\PR Task 5.csprojResolveAssemblyReference.cache
+E:\College\Pattern Recognition\Projects\PR Task 5\PR Task 5\obj\Debug\PR_Task_5.Form1.resources
+E:\College\Pattern Recognition\Projects\PR Task 5\PR Task 5\obj\Debug\PR_Task_5.Properties.Resources.resources
+E:\College\Pattern Recognition\Projects\PR Task 5\PR Task 5\obj\Debug\PR Task 5.csproj.GenerateResource.Cache
+E:\College\Pattern Recognition\Projects\PR Task 5\PR Task 5\obj\Debug\PR Task 5.exe
+E:\College\Pattern Recognition\Projects\PR Task 5\PR Task 5\obj\Debug\PR Task 5.pdb
+E:\Computer Science\New folder\PR Task 5\PR Task 5\bin\Debug\PR Task 5.exe.config
+E:\Computer Science\New folder\PR Task 5\PR Task 5\obj\Debug\PR Task 5.exe
+E:\Computer Science\New folder\PR Task 5\PR Task 5\obj\Debug\PR Task 5.pdb
